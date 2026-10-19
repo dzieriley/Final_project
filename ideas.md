@@ -8,6 +8,6 @@
 #Choice two
 ##https://corgis-edu.github.io/corgis/csv/music/
 
-*Is there a genre prefeerence?
+*Is there a genre preference?
 
 *How does age demographic effect music taste?
