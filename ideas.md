@@ -1,13 +1,11 @@
-#Choice one
-##https://corgis-edu.github.io/corgis/csv/classics/
+# Choice one
+## https://corgis-edu.github.io/corgis/csv/classics/
 
-*Why are these books considered classics?
+* Why are these books considered classics?
+* Are there common lessons between these books teach?
 
-*Are there common lessons between these books teach?
+# Choice two
+## https://corgis-edu.github.io/corgis/csv/music/
 
-#Choice two
-##https://corgis-edu.github.io/corgis/csv/music/
-
-*Is there a genre preference?
-
-*How does age demographic effect music taste?
+* Is there a genre preference?
+* How does age demographic effect music taste?
