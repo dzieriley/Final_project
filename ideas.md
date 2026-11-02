@@ -10,6 +10,6 @@
 ## https://corgis-edu.github.io/corgis/csv/music/
 
 * Is there a genre preference?
-    *count the number of listeners each genre has
+   * count the number of listeners each genre has
 * How does age demographic effect music taste?
-    *compare the ages of listeners in the different genres
+   * compare the ages of listeners in the different genres
